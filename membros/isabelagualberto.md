@@ -8,4 +8,4 @@ Ensino Fundamental completo e cursando o Ensino Médio
 Português e Inglês fluente
 
 # Competencias 
-Javascript básico, HTML e CSS intermediário
+Javascript básico, HTML e CSS intermediário.
